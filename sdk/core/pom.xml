@@ -20,7 +20,6 @@
     <module>azure-core-http-vertx</module>
     <module>azure-core-management</module>
     <module>azure-core-metrics-opentelemetry</module>
-    <module>azure-core-perf</module>
     <module>azure-core-serializer-avro-apache</module>
     <module>azure-core-serializer-json-gson</module>
     <module>azure-core-serializer-json-jackson</module>
